@@ -20,7 +20,7 @@ The project demonstrates the importance of writing unit tests before implementat
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/junit-calculator.git
+git clone https://github.com/Rabianzo/JUnit_Calculator
 cd junit-calculator
 ```
 
